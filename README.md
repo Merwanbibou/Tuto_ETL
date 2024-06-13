@@ -11,7 +11,7 @@ Ce projet implémente un processus ETL (Extraction, Transformation, Chargement) 
 1. Clonez le dépôt :
     ```bash
     git clone https://github.com/Merwanbibou/Tuto_ETL.git
-    cd etl-project
+    cd Tuto_ETL
     ```
 
 2. Installez les dépendances :
