@@ -1,7 +1,5 @@
-# Tuto_ETL
-A little tutorial of a simple ETL Process for those who begin in Data Engineering
 
-# ETL Project
+# Tuto_ETL
 
 ## Description
 Ce projet implémente un processus ETL (Extraction, Transformation, Chargement) complet en Python. Il extrait des données météorologiques d'une API publique, les transforme en un format structuré, et les charge dans un bucket S3.
