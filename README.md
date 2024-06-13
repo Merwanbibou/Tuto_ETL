@@ -26,4 +26,15 @@ Ce projet implémente un processus ETL (Extraction, Transformation, Chargement) 
 Pour exécuter le script ETL, lancez la commande suivante :
 ```bash
 python etl.py
+```
+
+## Configuration
+
+Assurez-vous de configurer correctement les paramètres API et AWS S3 dans config.py (N'oubliez pas de sécuriser vos clés AWS en utilisant des variables d'environnement).
+
+
+
+
+
+
 
